@@ -1,0 +1,10 @@
+The horse cart is a saddle for horses.
+
+It mimics the default cart saddle with some slight changes to the stats/buffs.
+The crafting recipe is the same as default and it is also crafted in the Ranching Station.
+
+The horse cart gives these:
+ - Cargo Slots: +40
+ - Weight Capacity: +750
+ - Movement Speed: -10%
+ - Heavy Cargo Slots: +4
