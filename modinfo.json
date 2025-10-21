@@ -12,6 +12,19 @@
                 "exmodz": "https://github.com/Jimk72/Icarus_Mods/raw/main/Dyls123_Horse_Cart.EXMODZ",
                 "pak": "https://github.com/Jimk72/Icarus_Mods/raw/main/Dyls123_Horse_Cart.pak"
             }
+        },
+        {
+            "name": "Dyls123's Stamina Module",
+            "author": "Dyls123",
+            "version": "1.0",
+            "compatibility": "All",
+            "description": "Adds a Stamina Module to the Workshop that increases stamina in many different ways.",
+            "imageURL": "https://github.com/Dyls123/Icarus_Mods/raw/main/Dyls123_Stamina_Module.png",
+            "readmeURL": "https://github.com/Dyls123/Icarus_Mods/raw/main/Dyls123_Stamina_Module.txt",
+            "files": {
+                "exmodz": "https://github.com/Dyls123/Icarus_Mods/raw/main/Dyls123_Stamina_Module.EXMODZ",
+                "pak": "https://github.com/Dyls123/Icarus_Mods/raw/main/Dyls123_Stamina_Module.pak"
+            }
         }
     ]
 }

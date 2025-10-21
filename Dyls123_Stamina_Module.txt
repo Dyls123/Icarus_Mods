@@ -1,0 +1,17 @@
+Stamina Module gives a boost to multiple stamina stats. Even for your mounts.
+
+The module costs:
+Learn:
+ - Ren: 500
+ - Exotic: 250
+Craft:
+ - Ren: 100
+ - Exotic: 50
+
+The module gives these:
+ - Maximum Stamina: 20%
+ - Stamina Regen: 10%
+ - Stamina Consumed: -10%
+ - Tool Stamina Action Cost: -10%
+ - Tamed Creature Maximum Stamina: 30%
+ - Tamed Creature Stamina Regen: 20%
